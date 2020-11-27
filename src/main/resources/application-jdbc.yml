@@ -1,0 +1,8 @@
+spring:
+  jdbc:
+    datasource:
+      driverClassName: com.mysql.jdbc.Driver
+      url: jdbc:mysql:///business1
+      username: business1
+      password: business1
+    type: druid
